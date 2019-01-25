@@ -1,0 +1,397 @@
+kode_provinsi,nama_provinsi,tingkat_pendidikan,jenis_kelamin_guru,jumlah_guru
+11,"Prov. Nanggroe Aceh Darussalam","TK","Laki-Laki",95
+11,"Prov. Nanggroe Aceh Darussalam","TK","Perempuan",8137
+11,"Prov. Nanggroe Aceh Darussalam","SD","Laki-Laki",1283
+11,"Prov. Nanggroe Aceh Darussalam","SD","Perempuan",3459
+11,"Prov. Nanggroe Aceh Darussalam","SMP","Laki-Laki",5794
+11,"Prov. Nanggroe Aceh Darussalam","SMP","Perempuan",11977
+11,"Prov. Nanggroe Aceh Darussalam","SMA","Laki-Laki",3916
+11,"Prov. Nanggroe Aceh Darussalam","SMA","Perempuan",7052
+11,"Prov. Nanggroe Aceh Darussalam","SMK","Laki-Laki",1624
+11,"Prov. Nanggroe Aceh Darussalam","SMK","Perempuan",1991
+11,"Prov. Nanggroe Aceh Darussalam","SLB","Laki-Laki",17
+11,"Prov. Nanggroe Aceh Darussalam","SLB","Perempuan",53
+12,"Prov. Sumatera Utara","TK","Laki-Laki",237
+12,"Prov. Sumatera Utara","TK","Perempuan",6214
+12,"Prov. Sumatera Utara","SD","Laki-Laki",27
+12,"Prov. Sumatera Utara","SD","Perempuan",75088
+12,"Prov. Sumatera Utara","SMP","Laki-Laki",13605
+12,"Prov. Sumatera Utara","SMP","Perempuan",22614
+12,"Prov. Sumatera Utara","SMA","Laki-Laki",7117
+12,"Prov. Sumatera Utara","SMA","Perempuan",10734
+12,"Prov. Sumatera Utara","SMK","Laki-Laki",5156
+12,"Prov. Sumatera Utara","SMK","Perempuan",5875
+12,"Prov. Sumatera Utara","SLB","Laki-Laki",48
+12,"Prov. Sumatera Utara","SLB","Perempuan",111
+13,"Prov. Sumatera Barat","TK","Laki-Laki",78
+13,"Prov. Sumatera Barat","TK","Perempuan",7086
+13,"Prov. Sumatera Barat","SD","Laki-Laki",9756
+13,"Prov. Sumatera Barat","SD","Perempuan",33612
+13,"Prov. Sumatera Barat","SMP","Laki-Laki",4603
+13,"Prov. Sumatera Barat","SMP","Perempuan",11596
+13,"Prov. Sumatera Barat","SMA","Laki-Laki",265
+13,"Prov. Sumatera Barat","SMA","Perempuan",6329
+13,"Prov. Sumatera Barat","SMK","Laki-Laki",2095
+13,"Prov. Sumatera Barat","SMK","Perempuan",2782
+13,"Prov. Sumatera Barat","SLB","Laki-Laki",58
+13,"Prov. Sumatera Barat","SLB","Perempuan",389
+14,"Prov. Riau","TK","Laki-Laki",164
+14,"Prov. Riau","TK","Perempuan",6913
+14,"Prov. Riau","SD","Laki-Laki",12973
+14,"Prov. Riau","SD","Perempuan",30641
+14,"Prov. Riau","SMP","Laki-Laki",4426
+14,"Prov. Riau","SMP","Perempuan",9433
+14,"Prov. Riau","SMA","Laki-Laki",2609
+14,"Prov. Riau","SMA","Perempuan",4971
+14,"Prov. Riau","SMK","Laki-Laki",1534
+14,"Prov. Riau","SMK","Perempuan",1988
+14,"Prov. Riau","SLB","Laki-Laki",33
+14,"Prov. Riau","SLB","Perempuan",105
+15,"Prov. Jambi","TK","Laki-Laki",101
+15,"Prov. Jambi","TK","Perempuan",3392
+15,"Prov. Jambi","SD","Laki-Laki",9613
+15,"Prov. Jambi","SD","Perempuan",15306
+15,"Prov. Jambi","SMP","Laki-Laki",3397
+15,"Prov. Jambi","SMP","Perempuan",4333
+15,"Prov. Jambi","SMA","Laki-Laki",1619
+15,"Prov. Jambi","SMA","Perempuan",1941
+15,"Prov. Jambi","SMK","Laki-Laki",828
+15,"Prov. Jambi","SMK","Perempuan",719
+15,"Prov. Jambi","SLB","Laki-Laki",16
+15,"Prov. Jambi","SLB","Perempuan",24
+16,"Prov. Sumatera Selatan","TK","Laki-Laki",127
+16,"Prov. Sumatera Selatan","TK","Perempuan",5363
+16,"Prov. Sumatera Selatan","SD","Laki-Laki",18239
+16,"Prov. Sumatera Selatan","SD","Perempuan",40937
+16,"Prov. Sumatera Selatan","SMP","Laki-Laki",651
+16,"Prov. Sumatera Selatan","SMP","Perempuan",12454
+16,"Prov. Sumatera Selatan","SMA","Laki-Laki",3814
+16,"Prov. Sumatera Selatan","SMA","Perempuan",6503
+16,"Prov. Sumatera Selatan","SMK","Laki-Laki",1574
+16,"Prov. Sumatera Selatan","SMK","Perempuan",2137
+16,"Prov. Sumatera Selatan","SLB","Laki-Laki",15
+16,"Prov. Sumatera Selatan","SLB","Perempuan",36
+17,"Prov. Bengkulu","TK","Laki-Laki",59
+17,"Prov. Bengkulu","TK","Perempuan",192
+17,"Prov. Bengkulu","SD","Laki-Laki",6074
+17,"Prov. Bengkulu","SD","Perempuan",9094
+17,"Prov. Bengkulu","SMP","Laki-Laki",2412
+17,"Prov. Bengkulu","SMP","Perempuan",3453
+17,"Prov. Bengkulu","SMA","Laki-Laki",1217
+17,"Prov. Bengkulu","SMA","Perempuan",1738
+17,"Prov. Bengkulu","SMK","Laki-Laki",705
+17,"Prov. Bengkulu","SMK","Perempuan",878
+17,"Prov. Bengkulu","SLB","Laki-Laki",34
+17,"Prov. Bengkulu","SLB","Perempuan",53
+18,"Prov. Lampung","TK","Laki-Laki",321
+18,"Prov. Lampung","TK","Perempuan",8807
+18,"Prov. Lampung","SD","Laki-Laki",21131
+18,"Prov. Lampung","SD","Perempuan",37497
+18,"Prov. Lampung","SMP","Laki-Laki",8267
+18,"Prov. Lampung","SMP","Perempuan",10534
+18,"Prov. Lampung","SMA","Laki-Laki",3737
+18,"Prov. Lampung","SMA","Perempuan",4837
+18,"Prov. Lampung","SMK","Laki-Laki",2356
+18,"Prov. Lampung","SMK","Perempuan",2312
+18,"Prov. Lampung","SLB","Laki-Laki",74
+18,"Prov. Lampung","SLB","Perempuan",128
+19,"Prov. Kepulauan Bangka Belitung","TK","Laki-Laki",24
+19,"Prov. Kepulauan Bangka Belitung","TK","Perempuan",1113
+19,"Prov. Kepulauan Bangka Belitung","SD","Laki-Laki",3175
+19,"Prov. Kepulauan Bangka Belitung","SD","Perempuan",5945
+19,"Prov. Kepulauan Bangka Belitung","SMP","Laki-Laki",116
+19,"Prov. Kepulauan Bangka Belitung","SMP","Perempuan",1551
+19,"Prov. Kepulauan Bangka Belitung","SMA","Laki-Laki",695
+19,"Prov. Kepulauan Bangka Belitung","SMA","Perempuan",732
+19,"Prov. Kepulauan Bangka Belitung","SMK","Laki-Laki",645
+19,"Prov. Kepulauan Bangka Belitung","SMK","Perempuan",481
+19,"Prov. Kepulauan Bangka Belitung","SLB","Laki-Laki",36
+19,"Prov. Kepulauan Bangka Belitung","SLB","Perempuan",68
+21,"Prov. Kepulauan Riau","TK","Laki-Laki",67
+21,"Prov. Kepulauan Riau","TK","Perempuan",1888
+21,"Prov. Kepulauan Riau","SD","Laki-Laki",3448
+21,"Prov. Kepulauan Riau","SD","Perempuan",6733
+21,"Prov. Kepulauan Riau","SMP","Laki-Laki",1193
+21,"Prov. Kepulauan Riau","SMP","Perempuan",2087
+21,"Prov. Kepulauan Riau","SMA","Laki-Laki",689
+21,"Prov. Kepulauan Riau","SMA","Perempuan",1064
+21,"Prov. Kepulauan Riau","SMK","Laki-Laki",512
+21,"Prov. Kepulauan Riau","SMK","Perempuan",525
+21,"Prov. Kepulauan Riau","SLB","Laki-Laki",31
+21,"Prov. Kepulauan Riau","SLB","Perempuan",81
+31,"Prov. DKI Jakarta","TK","Laki-Laki",385
+31,"Prov. DKI Jakarta","TK","Perempuan",11755
+31,"Prov. DKI Jakarta","SD","Laki-Laki",11104
+31,"Prov. DKI Jakarta","SD","Perempuan",26345
+31,"Prov. DKI Jakarta","SMP","Laki-Laki",7464
+31,"Prov. DKI Jakarta","SMP","Perempuan",10285
+31,"Prov. DKI Jakarta","SMA","Laki-Laki",4882
+31,"Prov. DKI Jakarta","SMA","Perempuan",6307
+31,"Prov. DKI Jakarta","SMK","Laki-Laki",4996
+31,"Prov. DKI Jakarta","SMK","Perempuan",4884
+31,"Prov. DKI Jakarta","SLB","Laki-Laki",149
+31,"Prov. DKI Jakarta","SLB","Perempuan",330
+32,"Prov. Jawa Barat","TK","Laki-Laki",899
+32,"Prov. Jawa Barat","TK","Perempuan",2681
+32,"Prov. Jawa Barat","SD","Laki-Laki",82575
+32,"Prov. Jawa Barat","SD","Perempuan",126326
+32,"Prov. Jawa Barat","SMP","Laki-Laki",29431
+32,"Prov. Jawa Barat","SMP","Perempuan",32155
+32,"Prov. Jawa Barat","SMA","Laki-Laki",12148
+32,"Prov. Jawa Barat","SMA","Perempuan",12774
+32,"Prov. Jawa Barat","SMK","Laki-Laki",11184
+32,"Prov. Jawa Barat","SMK","Perempuan",8952
+32,"Prov. Jawa Barat","SLB","Laki-Laki",1044
+32,"Prov. Jawa Barat","SLB","Perempuan",1766
+33,"Prov. Jawa Tengah","TK","Laki-Laki",1329
+33,"Prov. Jawa Tengah","TK","Perempuan",38208
+33,"Prov. Jawa Tengah","SD","Laki-Laki",77303
+33,"Prov. Jawa Tengah","SD","Perempuan",103842
+33,"Prov. Jawa Tengah","SMP","Laki-Laki",29849
+33,"Prov. Jawa Tengah","SMP","Perempuan",31734
+33,"Prov. Jawa Tengah","SMA","Laki-Laki",10804
+33,"Prov. Jawa Tengah","SMA","Perempuan",10521
+33,"Prov. Jawa Tengah","SMK","Laki-Laki",12876
+33,"Prov. Jawa Tengah","SMK","Perempuan",9853
+33,"Prov. Jawa Tengah","SLB","Laki-Laki",492
+33,"Prov. Jawa Tengah","SLB","Perempuan",802
+34,"Prov. D I Yogyakarta","TK","Laki-Laki",312
+34,"Prov. D I Yogyakarta","TK","Perempuan",7928
+34,"Prov. D I Yogyakarta","SD","Laki-Laki",7582
+34,"Prov. D I Yogyakarta","SD","Perempuan",13002
+34,"Prov. D I Yogyakarta","SMP","Laki-Laki",4531
+34,"Prov. D I Yogyakarta","SMP","Perempuan",5141
+34,"Prov. D I Yogyakarta","SMA","Laki-Laki",2495
+34,"Prov. D I Yogyakarta","SMA","Perempuan",2514
+34,"Prov. D I Yogyakarta","SMK","Laki-Laki",3336
+34,"Prov. D I Yogyakarta","SMK","Perempuan",285
+34,"Prov. D I Yogyakarta","SLB","Laki-Laki",369
+34,"Prov. D I Yogyakarta","SLB","Perempuan",676
+35,"Prov. Jawa Timur","TK","Laki-Laki",207
+35,"Prov. Jawa Timur","TK","Perempuan",58035
+35,"Prov. Jawa Timur","SD","Laki-Laki",9284
+35,"Prov. Jawa Timur","SD","Perempuan",125052
+35,"Prov. Jawa Timur","SMP","Laki-Laki",34165
+35,"Prov. Jawa Timur","SMP","Perempuan",37903
+35,"Prov. Jawa Timur","SMA","Laki-Laki",1398
+35,"Prov. Jawa Timur","SMA","Perempuan",14139
+35,"Prov. Jawa Timur","SMK","Laki-Laki",1296
+35,"Prov. Jawa Timur","SMK","Perempuan",11453
+35,"Prov. Jawa Timur","SLB","Laki-Laki",311
+35,"Prov. Jawa Timur","SLB","Perempuan",684
+36,"Prov. Banten","TK","Laki-Laki",262
+36,"Prov. Banten","TK","Perempuan",7118
+36,"Prov. Banten","SD","Laki-Laki",22102
+36,"Prov. Banten","SD","Perempuan",33636
+36,"Prov. Banten","SMP","Laki-Laki",7682
+36,"Prov. Banten","SMP","Perempuan",7782
+36,"Prov. Banten","SMA","Laki-Laki",3604
+36,"Prov. Banten","SMA","Perempuan",3538
+36,"Prov. Banten","SMK","Laki-Laki",2602
+36,"Prov. Banten","SMK","Perempuan",2171
+36,"Prov. Banten","SLB","Laki-Laki",131
+36,"Prov. Banten","SLB","Perempuan",243
+51,"Prov. Bali","TK","Laki-Laki",324
+51,"Prov. Bali","TK","Perempuan",5424
+51,"Prov. Bali","SD","Laki-Laki",11756
+51,"Prov. Bali","SD","Perempuan",13169
+51,"Prov. Bali","SMP","Laki-Laki",576
+51,"Prov. Bali","SMP","Perempuan",4547
+51,"Prov. Bali","SMA","Laki-Laki",3084
+51,"Prov. Bali","SMA","Perempuan",1945
+51,"Prov. Bali","SMK","Laki-Laki",1912
+51,"Prov. Bali","SMK","Perempuan",1286
+51,"Prov. Bali","SLB","Laki-Laki",111
+51,"Prov. Bali","SLB","Perempuan",150
+52,"Prov. Nusa Tenggara Barat","TK","Laki-Laki",257
+52,"Prov. Nusa Tenggara Barat","TK","Perempuan",4157
+52,"Prov. Nusa Tenggara Barat","SD","Laki-Laki",16948
+52,"Prov. Nusa Tenggara Barat","SD","Perempuan",16583
+52,"Prov. Nusa Tenggara Barat","SMP","Laki-Laki",5258
+52,"Prov. Nusa Tenggara Barat","SMP","Perempuan",4366
+52,"Prov. Nusa Tenggara Barat","SMA","Laki-Laki",2733
+52,"Prov. Nusa Tenggara Barat","SMA","Perempuan",1971
+52,"Prov. Nusa Tenggara Barat","SMK","Laki-Laki",1423
+52,"Prov. Nusa Tenggara Barat","SMK","Perempuan",967
+52,"Prov. Nusa Tenggara Barat","SLB","Laki-Laki",66
+52,"Prov. Nusa Tenggara Barat","SLB","Perempuan",87
+53,"Prov. Nusa Tenggara Timur","TK","Laki-Laki",224
+53,"Prov. Nusa Tenggara Timur","TK","Perempuan",3018
+53,"Prov. Nusa Tenggara Timur","SD","Laki-Laki",1884
+53,"Prov. Nusa Tenggara Timur","SD","Perempuan",23441
+53,"Prov. Nusa Tenggara Timur","SMP","Laki-Laki",6422
+53,"Prov. Nusa Tenggara Timur","SMP","Perempuan",5326
+53,"Prov. Nusa Tenggara Timur","SMA","Laki-Laki",2898
+53,"Prov. Nusa Tenggara Timur","SMA","Perempuan",2295
+53,"Prov. Nusa Tenggara Timur","SMK","Laki-Laki",1488
+53,"Prov. Nusa Tenggara Timur","SMK","Perempuan",1047
+53,"Prov. Nusa Tenggara Timur","SLB","Laki-Laki",61
+53,"Prov. Nusa Tenggara Timur","SLB","Perempuan",83
+61,"Prov. Kalimantan Barat","TK","Laki-Laki",85
+61,"Prov. Kalimantan Barat","TK","Perempuan",2693
+61,"Prov. Kalimantan Barat","SD","Laki-Laki",15791
+61,"Prov. Kalimantan Barat","SD","Perempuan",16673
+61,"Prov. Kalimantan Barat","SMP","Laki-Laki",391
+61,"Prov. Kalimantan Barat","SMP","Perempuan",4718
+61,"Prov. Kalimantan Barat","SMA","Laki-Laki",1847
+61,"Prov. Kalimantan Barat","SMA","Perempuan",1953
+61,"Prov. Kalimantan Barat","SMK","Laki-Laki",1038
+61,"Prov. Kalimantan Barat","SMK","Perempuan",921
+61,"Prov. Kalimantan Barat","SLB","Laki-Laki",18
+61,"Prov. Kalimantan Barat","SLB","Perempuan",46
+62,"Prov. Kalimantan Tengah","TK","Laki-Laki",88
+62,"Prov. Kalimantan Tengah","TK","Perempuan",4468
+62,"Prov. Kalimantan Tengah","SD","Laki-Laki",9376
+62,"Prov. Kalimantan Tengah","SD","Perempuan",14541
+62,"Prov. Kalimantan Tengah","SMP","Laki-Laki",2859
+62,"Prov. Kalimantan Tengah","SMP","Perempuan",3969
+62,"Prov. Kalimantan Tengah","SMA","Laki-Laki",1541
+62,"Prov. Kalimantan Tengah","SMA","Perempuan",1946
+62,"Prov. Kalimantan Tengah","SMK","Laki-Laki",750
+62,"Prov. Kalimantan Tengah","SMK","Perempuan",952
+62,"Prov. Kalimantan Tengah","SLB","Laki-Laki",26
+62,"Prov. Kalimantan Tengah","SLB","Perempuan",42
+63,"Prov. Kalimantan Selatan","TK","Laki-Laki",234
+63,"Prov. Kalimantan Selatan","TK","Perempuan",7527
+63,"Prov. Kalimantan Selatan","SD","Laki-Laki",12707
+63,"Prov. Kalimantan Selatan","SD","Perempuan",18645
+63,"Prov. Kalimantan Selatan","SMP","Laki-Laki",3474
+63,"Prov. Kalimantan Selatan","SMP","Perempuan",5076
+63,"Prov. Kalimantan Selatan","SMA","Laki-Laki",1482
+63,"Prov. Kalimantan Selatan","SMA","Perempuan",199
+63,"Prov. Kalimantan Selatan","SMK","Laki-Laki",1008
+63,"Prov. Kalimantan Selatan","SMK","Perempuan",1164
+63,"Prov. Kalimantan Selatan","SLB","Laki-Laki",35
+63,"Prov. Kalimantan Selatan","SLB","Perempuan",54
+64,"Prov. Kalimantan Timur","TK","Laki-Laki",196
+64,"Prov. Kalimantan Timur","TK","Perempuan",5376
+64,"Prov. Kalimantan Timur","SD","Laki-Laki",11272
+64,"Prov. Kalimantan Timur","SD","Perempuan",17166
+64,"Prov. Kalimantan Timur","SMP","Laki-Laki",4572
+64,"Prov. Kalimantan Timur","SMP","Perempuan",4945
+64,"Prov. Kalimantan Timur","SMA","Laki-Laki",1964
+64,"Prov. Kalimantan Timur","SMA","Perempuan",2144
+64,"Prov. Kalimantan Timur","SMK","Laki-Laki",1746
+64,"Prov. Kalimantan Timur","SMK","Perempuan",1629
+64,"Prov. Kalimantan Timur","SLB","Laki-Laki",49
+64,"Prov. Kalimantan Timur","SLB","Perempuan",102
+71,"Prov. Sulawesi Utara","TK","Laki-Laki",129
+71,"Prov. Sulawesi Utara","TK","Perempuan",3746
+71,"Prov. Sulawesi Utara","SD","Laki-Laki",437
+71,"Prov. Sulawesi Utara","SD","Perempuan",14769
+71,"Prov. Sulawesi Utara","SMP","Laki-Laki",2525
+71,"Prov. Sulawesi Utara","SMP","Perempuan",557
+71,"Prov. Sulawesi Utara","SMA","Laki-Laki",1362
+71,"Prov. Sulawesi Utara","SMA","Perempuan",2229
+71,"Prov. Sulawesi Utara","SMK","Laki-Laki",895
+71,"Prov. Sulawesi Utara","SMK","Perempuan",1131
+71,"Prov. Sulawesi Utara","SLB","Laki-Laki",25
+71,"Prov. Sulawesi Utara","SLB","Perempuan",67
+72,"Prov. Sulawesi Tengah","TK","Laki-Laki",20
+72,"Prov. Sulawesi Tengah","TK","Perempuan",3967
+72,"Prov. Sulawesi Tengah","SD","Laki-Laki",9534
+72,"Prov. Sulawesi Tengah","SD","Perempuan",15251
+72,"Prov. Sulawesi Tengah","SMP","Laki-Laki",3188
+72,"Prov. Sulawesi Tengah","SMP","Perempuan",3711
+72,"Prov. Sulawesi Tengah","SMA","Laki-Laki",1485
+72,"Prov. Sulawesi Tengah","SMA","Perempuan",1586
+72,"Prov. Sulawesi Tengah","SMK","Laki-Laki",839
+72,"Prov. Sulawesi Tengah","SMK","Perempuan",942
+72,"Prov. Sulawesi Tengah","SLB","Laki-Laki",22
+72,"Prov. Sulawesi Tengah","SLB","Perempuan",40
+73,"Prov. Sulawesi Selatan","TK","Laki-Laki",209
+73,"Prov. Sulawesi Selatan","TK","Perempuan",11953
+73,"Prov. Sulawesi Selatan","SD","Laki-Laki",20274
+73,"Prov. Sulawesi Selatan","SD","Perempuan",45019
+73,"Prov. Sulawesi Selatan","SMP","Laki-Laki",95
+73,"Prov. Sulawesi Selatan","SMP","Perempuan",1353
+73,"Prov. Sulawesi Selatan","SMA","Laki-Laki",5287
+73,"Prov. Sulawesi Selatan","SMA","Perempuan",5993
+73,"Prov. Sulawesi Selatan","SMK","Laki-Laki",2885
+73,"Prov. Sulawesi Selatan","SMK","Perempuan",2624
+73,"Prov. Sulawesi Selatan","SLB","Laki-Laki",100
+73,"Prov. Sulawesi Selatan","SLB","Perempuan",226
+74,"Prov. Sulawesi Tenggara","TK","Laki-Laki",89
+74,"Prov. Sulawesi Tenggara","TK","Perempuan",4712
+74,"Prov. Sulawesi Tenggara","SD","Laki-Laki",9831
+74,"Prov. Sulawesi Tenggara","SD","Perempuan",14157
+74,"Prov. Sulawesi Tenggara","SMP","Laki-Laki",4267
+74,"Prov. Sulawesi Tenggara","SMP","Perempuan",3744
+74,"Prov. Sulawesi Tenggara","SMA","Laki-Laki",2495
+74,"Prov. Sulawesi Tenggara","SMA","Perempuan",1991
+74,"Prov. Sulawesi Tenggara","SMK","Laki-Laki",779
+74,"Prov. Sulawesi Tenggara","SMK","Perempuan",758
+74,"Prov. Sulawesi Tenggara","SLB","Laki-Laki",38
+74,"Prov. Sulawesi Tenggara","SLB","Perempuan",49
+75,"Prov. Gorontalo","TK","Laki-Laki",52
+75,"Prov. Gorontalo","TK","Perempuan",2401
+75,"Prov. Gorontalo","SD","Laki-Laki",2338
+75,"Prov. Gorontalo","SD","Perempuan",6669
+75,"Prov. Gorontalo","SMP","Laki-Laki",1024
+75,"Prov. Gorontalo","SMP","Perempuan",248
+75,"Prov. Gorontalo","SMA","Laki-Laki",449
+75,"Prov. Gorontalo","SMA","Perempuan",845
+75,"Prov. Gorontalo","SMK","Laki-Laki",432
+75,"Prov. Gorontalo","SMK","Perempuan",594
+75,"Prov. Gorontalo","SLB","Laki-Laki",4
+75,"Prov. Gorontalo","SLB","Perempuan",21
+76,"Prov. Sulawesi Barat","TK","Laki-Laki",29
+76,"Prov. Sulawesi Barat","TK","Perempuan",1788
+76,"Prov. Sulawesi Barat","SD","Laki-Laki",4635
+76,"Prov. Sulawesi Barat","SD","Perempuan",6696
+76,"Prov. Sulawesi Barat","SMP","Laki-Laki",1511
+76,"Prov. Sulawesi Barat","SMP","Perempuan",1607
+76,"Prov. Sulawesi Barat","SMA","Laki-Laki",615
+76,"Prov. Sulawesi Barat","SMA","Perempuan",522
+76,"Prov. Sulawesi Barat","SMK","Laki-Laki",397
+76,"Prov. Sulawesi Barat","SMK","Perempuan",339
+76,"Prov. Sulawesi Barat","SLB","Laki-Laki",9
+76,"Prov. Sulawesi Barat","SLB","Perempuan",19
+81,"Prov. Maluku","TK","Laki-Laki",42
+81,"Prov. Maluku","TK","Perempuan",1265
+81,"Prov. Maluku","SD","Laki-Laki",5597
+81,"Prov. Maluku","SD","Perempuan",11418
+81,"Prov. Maluku","SMP","Laki-Laki",2374
+81,"Prov. Maluku","SMP","Perempuan",3715
+81,"Prov. Maluku","SMA","Laki-Laki",1478
+81,"Prov. Maluku","SMA","Perempuan",2187
+81,"Prov. Maluku","SMK","Laki-Laki",655
+81,"Prov. Maluku","SMK","Perempuan",691
+81,"Prov. Maluku","SLB","Laki-Laki",12
+81,"Prov. Maluku","SLB","Perempuan",32
+82,"Prov. Maluku Utara","TK","Laki-Laki",17
+82,"Prov. Maluku Utara","TK","Perempuan",1138
+82,"Prov. Maluku Utara","SD","Laki-Laki",3481
+82,"Prov. Maluku Utara","SD","Perempuan",5407
+82,"Prov. Maluku Utara","SMP","Laki-Laki",15
+82,"Prov. Maluku Utara","SMP","Perempuan",1641
+82,"Prov. Maluku Utara","SMA","Laki-Laki",964
+82,"Prov. Maluku Utara","SMA","Perempuan",965
+82,"Prov. Maluku Utara","SMK","Laki-Laki",433
+82,"Prov. Maluku Utara","SMK","Perempuan",388
+82,"Prov. Maluku Utara","SLB","Laki-Laki",19
+82,"Prov. Maluku Utara","SLB","Perempuan",25
+91,"Prov. Papua Barat","TK","Laki-Laki",11
+91,"Prov. Papua Barat","TK","Perempuan",638
+91,"Prov. Papua Barat","SD","Laki-Laki",2682
+91,"Prov. Papua Barat","SD","Perempuan",2681
+91,"Prov. Papua Barat","SMP","Laki-Laki",1041
+91,"Prov. Papua Barat","SMP","Perempuan",1095
+91,"Prov. Papua Barat","SMA","Laki-Laki",551
+91,"Prov. Papua Barat","SMA","Perempuan",655
+91,"Prov. Papua Barat","SMK","Laki-Laki",280
+91,"Prov. Papua Barat","SMK","Perempuan",281
+91,"Prov. Papua Barat","SLB","Laki-Laki",
+91,"Prov. Papua Barat","SLB","Perempuan",
+94,"Prov. Papua","TK","Laki-Laki",58
+94,"Prov. Papua","TK","Perempuan",1547
+94,"Prov. Papua","SD","Laki-Laki",7575
+94,"Prov. Papua","SD","Perempuan",5593
+94,"Prov. Papua","SMP","Laki-Laki",2631
+94,"Prov. Papua","SMP","Perempuan",2454
+94,"Prov. Papua","SMA","Laki-Laki",137
+94,"Prov. Papua","SMA","Perempuan",1416
+94,"Prov. Papua","SMK","Laki-Laki",849
+94,"Prov. Papua","SMK","Perempuan",825
+94,"Prov. Papua","SLB","Laki-Laki",15
+94,"Prov. Papua","SLB","Perempuan",23
